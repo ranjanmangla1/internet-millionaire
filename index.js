@@ -1,4 +1,4 @@
-#!user/bin/env node
+#!usr/bin/env node
 /* SHEBANG */
 /* Always add a shebang to write a command line script for somebody else to use  */
 
